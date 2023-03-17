@@ -1,1 +1,1 @@
-package go_bank
+package main
